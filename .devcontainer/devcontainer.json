@@ -3,7 +3,7 @@
   "image": "mcr.microsoft.com/devcontainers/go:1-1.24-bullseye",
   "customizations": {
     "devpod": {
-      "prebuildRepository": ""
+      "prebuildRepository": "https://github.com/jncss/devpod-go"
     }
   }
 }
